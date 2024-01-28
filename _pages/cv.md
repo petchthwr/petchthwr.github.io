@@ -16,15 +16,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Student Researcher
+  * Air-Space Control, Optimization, and Management Laboratory (ASCOM-LAB), KMITL, Bangkok, Thailand
+  * Research Area: Spacecraft Pose Estimation, Computer Vision
+  * Supervisor: Asst. Prof. Dr. Patcharin Kamsing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Intern
+  * National Astronomical Research Institute of Thailand (NARIT), Chiang Mai, Thailand
+  * Research Area: Simulation for Spacecraft Kinematics and Dynamics
+  * Supervisor: Dr. Peerapong Torteeka
+
+* Aerospace Engineer
+  * Satang Space Company Limited, Bangkok, Thailand
+  * Research Area: Space Situational Awareness (SSA), Data-driven Risk Assessment.
+
+* Master's Student Researcher
+  * Laboratory for information and Control Systems (LiCS), KAIST, Daejeon, South Korea
+  * Duties included: Time-series Analysis, Representation Learning, Contrastive Learning, and Intelligent Air Traffic Control.
+  * Supervisor: Prof. Choi Han-Lim
   
 Skills
 ======
