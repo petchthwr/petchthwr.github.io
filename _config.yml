@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thaweerath Phisannupawong (Petch)"
+title                    : "Thaweerath Phisannupawong"
 title_separator          : "-"
-name                     : &name "Thaweerath Phisannupawong (Petch)"
+name                     : &name "Thaweerath Phisannupawong"
 description              : &description "personal description"
 url                      : https://petchthwr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -100,9 +100,9 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : "https://www.linkedin.com/in/thaweerath-phisannupawong-09030415b/"
+  impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/thaweerath-phisannupawong-09030415b/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
