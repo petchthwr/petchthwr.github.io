@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. (First Class Honor, 1st Class Rank) Aeronautical Engineering and Commercial Pilot, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand, 2021
+* M.S. Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, 2024 (Expected)
 
 Work experience
 ======
