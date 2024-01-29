@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Vision-based attitude estimation for spacecraft docking operation through deep learning algorithm"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/docking1
+excerpt: 'This paper is the preliminary study of vision-based spacecraft attitude estimation for noncooperative docking operations using a deep convolutional neural network (CNN).'
+date: 2020-08-16
+venue: '22nd International Conference on Advanced Communication Technology (ICACT 2020)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9061445'
+citation: 'Thaweerath Phisannupawong, Patcharin Kamsing, Peerapong Tortceka, Soemsak Yooyen'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is the preliminary study of vision-based spacecraft attitude estimation for noncooperative docking operations using a deep convolutional neural network (CNN). The Journal of the same topic is the extended version of this paper.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9061445)
