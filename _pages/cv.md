@@ -9,11 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Information
+======
+* Name: Thaweerath Phisannupawong
+* Date of Birth: June 26th 1999
+* Languages: Thai, English
+* Email: thaweerath2009@gmail.com, petchthwr@kaist.ac.kr, petch@lics.kaist.ac.kr
+* Lab Address: 291 Daehak-ro, Yuseong-gu, Daejeon, South Korea, 34141
+
 Education
 ======
 * B.Eng. (First Class Honor, 1st Class Rank) Aeronautical Engineering and Commercial Pilot, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand, 2021
   * Financial Support for Excellent Academic Performance, KMITL (2018-2021)
-  * Thesis: Vision-Based Spacecraft Pose Estimation via a Deep Convolutional Neural Network for Noncooperative Docking Operations
+  * Thesis: Vision-Based Spacecraft Pose Estimation via a Deep Convolutional Neural Network for Noncooperative Docking Operations. [pdf](https://www.mdpi.com/2226-4310/7/9/126)
 * M.S. Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, 2024 (Expected)
   * Fully funded by KAIST International Student Scholarship
   * Thesis (In Progress): Self-supervised Hypothesis-driven Contrastive Representation Learning for Trajectory Data.
