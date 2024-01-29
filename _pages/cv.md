@@ -43,7 +43,7 @@ Research Experiences
   * Duties included: Space Situational Awareness (SSA), Data-driven Risk Assessment, Space Data Commercialization.
 
 * 2022-Current: Master's Student Researcher
-  * Laboratory for information and Control Systems (LiCS), KAIST, Daejeon, South Korea
+  * Laboratory for information and Control Systems (LiCS), KAIST, Daejeon, South Korea [link](https://lics.kaist.ac.kr/)
   * Research Area: Time-series Analysis, Representation Learning, Contrastive Learning, and Intelligent Air Traffic Control.
   * Supervisor: Prof. Choi Han-Lim
 
