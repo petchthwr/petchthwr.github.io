@@ -12,11 +12,15 @@ redirect_from:
 Education
 ======
 * B.Eng. (First Class Honor, 1st Class Rank) Aeronautical Engineering and Commercial Pilot, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand, 2021
+  * Financial Support for Excellent Academic Performance, KMITL (2018-2021)
+  * Thesis: Vision-Based Spacecraft Pose Estimation via a Deep Convolutional Neural Network for Noncooperative Docking Operations
 * M.S. Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, 2024 (Expected)
+  * Fully funded by KAIST International Student Scholarship
+  * Thesis (In Progress): Self-supervised Hypothesis-driven Contrastive Representation Learning for Trajectory Data.
 
-Work experience
+Research Experiences
 ======
-* Undergraduate Student Researcher
+* 2019-2021: Undergraduate Student Researcher
   * Air-Space Control, Optimization, and Management Laboratory (ASCOM-LAB), KMITL, Bangkok, Thailand
   * Research Area: Spacecraft Pose Estimation, Computer Vision
   * Supervisor: Asst. Prof. Dr. Patcharin Kamsing
@@ -26,30 +30,29 @@ Work experience
   * Research Area: Simulation for Spacecraft Kinematics and Dynamics
   * Supervisor: Dr. Peerapong Torteeka
 
-* Aerospace Engineer
-  * Satang Space Company Limited, Bangkok, Thailand
-  * Research Area: Space Situational Awareness (SSA), Data-driven Risk Assessment.
+* 2021-2022: Aerospace Engineer
+  * Satang Space Company Limited, Bangkok, Thailand - ASCOM-LAB Spin-off
+  * Duties included: Space Situational Awareness (SSA), Data-driven Risk Assessment, Space Data Commercialization.
 
-* Master's Student Researcher
+* 2022-Current: Master's Student Researcher
   * Laboratory for information and Control Systems (LiCS), KAIST, Daejeon, South Korea
-  * Duties included: Time-series Analysis, Representation Learning, Contrastive Learning, and Intelligent Air Traffic Control.
+  * Research Area: Time-series Analysis, Representation Learning, Contrastive Learning, and Intelligent Air Traffic Control.
   * Supervisor: Prof. Choi Han-Lim
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Extra-Curricular Activities
 ======
-* Currently signed in to 43 different slack teams
+* Summer 2019: Exchange Student
+  * Nanjing Tech University, Pujiang Institute, Nanjing, China
+  * Fully funded 2nd Summer School Automotive Engineering, A collaborative program of KMITL, KMUTT, Chulalongkorn University, Tokyo Tech University, and Nanjing Tech University Pujiang Institute.
+* 2019-2020: Vice President
+  * Student Association of the International Academy of Aviation Industry (IAAI), KMITL, Bangkok, Thailand
+  * Duties included: Organizing activities for students, Academic promotion, and Cross-departmental collaboration.
+* 2020-2021: Student Pilot
+  * Asia Aviation Academy, Chumphon, Thailand
+  * Commercial Pilot License (CPL) with Instrument Rating (IR) and Multi-Engine Rating (ME) Training
