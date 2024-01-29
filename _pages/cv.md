@@ -47,6 +47,12 @@ Research Experiences
   * Research Area: Time-series Analysis, Representation Learning, Contrastive Learning, and Intelligent Air Traffic Control.
   * Supervisor: Prof. Choi Han-Lim
 
+* 2024-Current: ML Researcher
+  * Collaborative Research: KMITL, GISDA, and NARIT
+  * Project: Vision-based Close-Proximity Orbital Operation Simulation Platform
+  * Funding: Asia Pacific Space Cooperation Organization (APSCO)
+  * Project Leader: Asst. Prof. Dr. Patcharin Kamsing
+
 Publications
 ======
   <ul>{% for post in site.publications %}
