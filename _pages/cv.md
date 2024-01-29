@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" [pdf](files/CV_20240111.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
