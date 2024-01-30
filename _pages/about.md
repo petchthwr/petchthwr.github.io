@@ -8,23 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Master's degree at the Korea Advanced Institute of Science and Technology (KAIST), South Korea. My academic journey is under the expert guidance of Prof. Choi Han-Lim at the Laboratory for Information and Control Systems (LiCS).
-My work in this lab is mainly about time series representation learning, especially for the trajectory of moving object. As the core machine learning is also encourage in LiCS, I am interested in self-supervised learning, representation learning especially via contrastive learning and their scientific application.
-In terms of applied machine learning, my current work is particularly about using machine learning for aerospace data application, namely the representation learning for air traffic control data, and its multimodality. However, I am open to various scientific application of machine learning, as I believe that the core machine learning research is not nessessary to be domain specific in most cases.
+I am currently pursuing my Master's degree at the Korea Advanced Institute of Science and Technology (KAIST) in South Korea, where I am part of the Laboratory for Information and Control Systems (LiCS) under the expert guidance of Prof. Choi Han-Lim. My work at LiCS primarily revolves around time series representation learning, with a special focus on the trajectories of moving objects. Given the emphasis on core machine learning at LiCS, I have developed a keen interest in self-supervised learning, representation learning (particularly through contrastive learning), and their scientific applications.
 
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In terms of applied machine learning, my current project is centered on aerospace data applications, notably the representation learning for air traffic control data and its multimodal aspects. However, my interests are not confined to any single domain; I believe that the principles of core machine learning research can be universally applied across various scientific fields.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Prior to my time at KAIST, I was an undergraduate student at King Mongkut's Institute of Technology Ladkrabang (KMITL) in Thailand. There, I joined the Air-Space Control, Optimization, and Management Laboratory (ASCOM-LAB) under the supervision of Asst. Prof. Dr. Patcharin Kamsing. The lab's focus on navigation, guidance, control, and aerospace data application aligned well with my interests. During my undergraduate studies, my thesis centered on vision-based spacecraft pose estimation for non-cooperative docking operations, exploring the intersection of data mining and aerospace engineering.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Additionally, I gained valuable experience as a research intern at the National Astronomical Research Institute of Thailand (NARIT), where my work involved simulating spacecraft kinematics and dynamics.
+
+Before embarking on my journey at KAIST, I was part of an entrepreneurial endeavor linked to ASCOM-LAB. As an aerospace engineer at Satang Space Company Limited, a spin-off from ASCOM-LAB, I contributed to the development of a space situational awareness (SSA) system. This system not only monitors space objects and predicts collision risks but also incorporates data-driven risk assessment techniques using machine learning to evaluate potential collisions.
 
 Site-wide configuration
 ------
