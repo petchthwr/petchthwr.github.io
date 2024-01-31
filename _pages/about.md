@@ -17,10 +17,10 @@ However, my interests are not limited to the aerospace domain, for I believe tha
 
 Prior to my time at KAIST, I was an undergraduate student at King Mongkut's Institute of Technology Ladkrabang (KMITL) in Thailand. 
 There, I joined the Air-Space Control, Optimization, and Management Laboratory (ASCOM-LAB) under the supervision of Asst. Prof. Dr. Patcharin Kamsing. 
-The lab's focus on navigation, guidance, control, and aerospace data application aligned well with my interests. 
-During my undergraduate studies, my thesis centered on vision-based spacecraft pose estimation for non-cooperative docking operations, exploring the intersection of data mining and aerospace engineering.
+The lab's focus on navigation, guidance, control, and aerospace data application. 
+During my undergraduate time, my thesis is vision-based spacecraft pose estimation for non-cooperative docking operations, exploring the intersection of machine learning and aerospace navigation. 
+I also worked on simulating spacecraft kinematics and dynamics, during my internshop period at the National Astronomical Research Institute of Thailand (NARIT).
 
-Additionally, I gained valuable experience as a research intern at the National Astronomical Research Institute of Thailand (NARIT), where my work involved simulating spacecraft kinematics and dynamics.
-Before embarking on my journey at KAIST, I was part of an entrepreneurial endeavor linked to ASCOM-LAB. 
-As an aerospace engineer at Satang Space Company Limited, a spin-off from ASCOM-LAB, I contributed to the development of a space situational awareness (SSA) system. 
-This system not only monitors space objects and predicts collision risks but also incorporates data-driven risk assessment techniques using machine learning to evaluate potential collisions.
+Before coming to KAIST, I was part of an entrepreneurial endeavor linked to ASCOM-LAB. 
+As an aerospace engineer at Satang Space Company Limited, a spin-off from ASCOM-LAB, I contributed to a part of the space situational awareness (SSA) system. 
+This system incorporates data-driven risk assessment techniques using machine learning to evaluate potential collisions.
