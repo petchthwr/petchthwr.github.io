@@ -53,7 +53,7 @@ Research Experiences
   * Funding: Asia Pacific Space Cooperation Organization (APSCO)
   * Project Leader: Asst. Prof. Dr. Patcharin Kamsing
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
