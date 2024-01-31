@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Full pdf version](http://petchthwr.github.io/files/CV_20243101.pdf)
 
 Personal Information
