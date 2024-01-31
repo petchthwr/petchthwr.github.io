@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [![PDF Icon](http://petchthwr.github.io/images/pdf.png)](http://petchthwr.github.io/files/CV_20243101.pdf)
+
 Personal Information
 ======
 * Name: Thaweerath Phisannupawong
