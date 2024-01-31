@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full pdf version](http://petchthwr.github.io/files/CV_20243101.pdf)
+[Full pdf version](http://petchthwr.github.io/files/CV_20240131.pdf)
 
 Personal Information
 ======
@@ -22,7 +22,7 @@ Personal Information
 Education
 ======
 * B.Eng. (First Class Honor, 1st Class Rank) Aeronautical Engineering and Commercial Pilot, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand, 2021
-  * Financial Support for Excellent Academic Performance, KMITL (2018-2021)
+  * Awards for Excellent Academic Performance, KMITL (2018-2021)
   * Thesis: Vision-based Attitude Estimation for Spacecraft Docking Operation through Deep Learning Algorithm [pdf](https://www.mdpi.com/2226-4310/7/9/126)
 
 * M.S. Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, 2024 (Expected)
