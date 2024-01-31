@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" [pdf](http://petchthwr.github.io/files/CV_20243101.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Full pdf version](http://petchthwr.github.io/files/CV_20243101.pdf)
 
 Personal Information
 ======
