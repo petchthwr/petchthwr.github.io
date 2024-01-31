@@ -8,4 +8,3 @@ venue:
 paperurl: 
 citation: 
 ---
-[Visit the project site here](http://petchthwr.github.io/files/EuroGNC_paper.pdf)
