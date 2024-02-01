@@ -38,7 +38,7 @@ Research Experiences
 
 * Summer 2020: Research Intern
   * National Astronomical Research Institute of Thailand (NARIT), Chiang Mai, Thailand
-  * Research Area: Simulation for Spacecraft Kinematics and Dynamics
+  * Research Area: Simulation for Spacecraft Kinematics
   * Supervisor: Dr. Peerapong Torteeka
 
 * 2021-2022: Aerospace Engineer

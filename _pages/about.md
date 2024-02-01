@@ -20,7 +20,7 @@ However, my interests are not limited to the aerospace domain, for I believe tha
 Prior to my time at KAIST, I was an undergraduate student at King Mongkut's Institute of Technology Ladkrabang (KMITL) in Thailand. 
 There, I joined the Air-Space Control, Optimization, and Management Laboratory (ASCOM-LAB) under the supervision of Asst. Prof. Dr. Patcharin Kamsing. 
 During my undergraduate time, my thesis was on vision-based spacecraft pose estimation for non-cooperative docking operations, exploring the intersection of machine learning and aerospace navigation. 
-I also worked on simulating spacecraft kinematics and dynamics during my internship period at the National Astronomical Research Institute of Thailand (NARIT).
+I also worked on simulating spacecraft kinematics during my internship period at the National Astronomical Research Institute of Thailand (NARIT).
 
 Before coming to KAIST, I was part of an entrepreneurial endeavor linked to ASCOM-LAB. 
 As an aerospace engineer at Satang Space Company Limited, a spin-off from ASCOM-LAB, I contributed to a part of the space situational awareness (SSA) system. 
