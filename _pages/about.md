@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Master's degree at the Korea Advanced Institute of Science and Technology (KAIST) in South Korea, where I am part of the Laboratory for Information and Control Systems (LiCS) under the expert guidance of Prof. Han-Lim Choi.
+I am currently pursuing my doctoral degree at the Korea Advanced Institute of Science and Technology (KAIST) in South Korea, where I am part of the Laboratory for Information and Control Systems (LiCS) under the expert guidance of Prof. Han-Lim Choi.
 
 My work at LiCS is primarily about time series representation learning, with a focus on the trajectories of moving objects. 
 Given the emphasis on core machine learning at LiCS, I have a keen interest in self-supervised learning, representation learning (particularly through contrastive learning), and their scientific applications. 

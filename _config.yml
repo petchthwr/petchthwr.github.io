@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Thaweerath Phisannupawong (Petch)"
   avatar           : "530611.jpg"
-  bio              : "A master's student at LiCS, KAIST Aerospace"
+  bio              : "A Ph.D. candidate at LiCS, KAIST Aerospace"
   location         : "Daejeon, South Korea"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rqrzVdMAAAAJ&hl=en"
-  email            :
+  email            : "petch@lics.kaist.ac.kr"
   researchgate     : "https://www.researchgate.net/profile/Thaweerath-Phisannupawong"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/thaweerath-phisannupawong-09030415b"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0709-4647"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
