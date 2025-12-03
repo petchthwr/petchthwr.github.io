@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Full pdf version](http://petchthwr.github.io/files/CV_20240131.pdf)
-
 Personal Information
 ======
 * Name: Thaweerath Phisannupawong
@@ -25,9 +23,12 @@ Education
   * Awards for Excellent Academic Performance, KMITL (2018-2021)
   * Thesis: Vision-based Attitude Estimation for Spacecraft Docking Operation through Deep Learning Algorithm [pdf](https://www.mdpi.com/2226-4310/7/9/126)
 
-* M.S. Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, 2024 (Expected)
+* M.S. Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, 2024.
   * Fully funded by KAIST International Student Scholarship
-  * Thesis (In Progress): Air Traffic Trajectory Contrastive Representation Learning
+  * Thesis: A Self-supervised Contrastive Learning Framework for Aircraft Trajectory Representation in Terminal Airspace
+ 
+* Ph.D. (Ongoing) Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea.
+  * Fully funded by Hyundai Motor Chung-Mong Koo Global Scholarship
 
 Research Experiences
 ======
@@ -45,7 +46,7 @@ Research Experiences
   * Satang Space Company Limited, Bangkok, Thailand - ASCOM-LAB Spin-off
   * Duties included: Space Situational Awareness (SSA), Data-driven Risk Assessment, Space Data Commercialization.
 
-* 2022-Current: Master's Student Researcher
+* 2022-Current: Ph.D. Candidate
   * Laboratory for information and Control Systems (LiCS), KAIST, Daejeon, South Korea [link](https://lics.kaist.ac.kr/)
   * Research Area: Time-series Analysis, Representation Learning, Contrastive Learning, and Intelligent Air Traffic Control.
   * Supervisor: Prof. Han-Lim Choi
